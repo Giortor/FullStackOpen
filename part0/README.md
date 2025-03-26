@@ -1,3 +1,9 @@
+###### 0.1
+Review the basics of HTML by reading this tutorial from Mozilla (HTML tutorial)[https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content]
+###### 0.2
+Review the basics of CSS by reading this tutorial from Mozilla (CSS tutorial)[https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content]
+###### 0.3
+Learn about the basics of HTML forms by reading Mozilla's tutorial (Your first form)[https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form]
 ###### 0.4 Sequence diagram to add a note in https://studies.cs.helsinki.fi/exampleapp/notes
 ```mermaid
 sequenceDiagram
